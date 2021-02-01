@@ -18,7 +18,6 @@ int main()
     }
     return 0;
 }
-ok
-test comment 01.
+est comment 01.
 test comment 02.
 Rajan edit by gitahead.
